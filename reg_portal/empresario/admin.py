@@ -14,3 +14,4 @@ class EmpresarioNoticeAdmin(admin.ModelAdmin):
 admin.site.register(EmpresarioUser, EmpresarioUserAdmin)
 admin.site.register(EmpresarioQuestionnaire, EmpresarioQuestionnaireAdmin)
 admin.site.register(EmpresarioNotice, EmpresarioNoticeAdmin)
+#All admin routing 
